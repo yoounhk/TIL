@@ -124,11 +124,11 @@ public class NewExample2 {
     } 
  }
 ```
+
 **Output:**
 
-````
-Invoking Constructor
-```
+`Invoking Constructor`
+
 ---
 ```java
 public class DefaultExample {

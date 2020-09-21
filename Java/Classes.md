@@ -237,9 +237,8 @@ public class OverloadingExample2
 
 **Output:**
 
-```
-112
-```
+`112`
+
 
 As you can see in the above program that we called the parameterized constructor during object creation. Since we have this() placed in parameterized constructor, the default constructor got invoked from it and initialized the variable `rollNum`.
 

@@ -14,7 +14,7 @@ _1 TIL and counting..._
 
 ### Database
 
-- [Create_table_in_mysql](Database/Create_table_in_mysql.md)
+- [Create_Table_In_MySQL](Database/Create_Table_In_MySQL.md)
 
 ---
 

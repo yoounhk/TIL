@@ -5,16 +5,28 @@
 A collection of concise write-ups on small things I learn across a variety of 
 languages and technologies.
 
-_1 TIL and counting..._
+_5 TILs and counting..._
 
 ## Categories
-* [Database](#Database)
+* [Java](#Java)
+* [Kotlin](#Kotlin)
+* [Mysql](#MySQL)
 
 ---
 
-### Database
+### Java
 
-- [Create_Table_In_MySQL](Database/Create_Table_In_MySQL.md)
+- [Classes](Java/Classes.md)
+- [Methods](Java/Methods.md)
+
+### Kotlin
+
+- [When Expression](Kotlin/When-Expression.md)
+
+### Mysql
+
+- [C.R.U.D In MySQL](MySQL/CRUD-In-MySQL.md)
+- [Creating Table](MySQL/Creating-Table.md)
 
 ---
 

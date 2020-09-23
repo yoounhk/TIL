@@ -5,14 +5,19 @@
 A collection of concise write-ups on small things I learn across a variety of 
 languages and technologies.
 
-_5 TILs and counting..._
+_6 TILs and counting..._
 
 ## Categories
+* [Cheatsheet](#CheatSheet)
 * [Java](#Java)
 * [Kotlin](#Kotlin)
 * [Mysql](#MySQL)
 
 ---
+
+### Cheatsheet
+
+- [Intellij Shortcut (based on VS Code)](CheatSheet/Intellij-Shortcut.md)
 
 ### Java
 

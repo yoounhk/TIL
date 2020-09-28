@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn across a variety of 
 languages and technologies.
 
-_6 TILs and counting..._
+_7 TILs and counting..._
 
 ## Categories
 * [Cheatsheet](#CheatSheet)
@@ -23,6 +23,7 @@ _6 TILs and counting..._
 
 - [Classes](Java/Classes.md)
 - [Methods](Java/Methods.md)
+- [배열을 사용하는 이유](Java/배열을_사용하는_이유.md)
 
 ### Kotlin
 
